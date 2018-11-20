@@ -6,3 +6,4 @@
 5. [Matrix](https://docs.google.com/presentation/d/1zc0WKtdjMiAGV_VR6TRI1oU7gyBdlwEz1Cs5lc2cfIE/edit?usp=sharing)
 6. [Graphs](https://docs.google.com/presentation/d/1EKNNVUCBdSOk1TWmulDtj7tMSSFuTHGfUtbUoxBoJEs/edit?usp=sharing)
 7. [Functions & Relations](https://docs.google.com/presentation/d/1E7B0_IVjQFDS8K-hSZOyrV9liTcd49iEbqEXd55YkbU/edit?usp=sharing)
+8. [Answer key for Maths Review](https://docs.google.com/document/d/1geq41jcCtTSUNHfl1J6dVIGhVjEvSloHPMM0Lx_p9Qo/edit?usp=sharing)
